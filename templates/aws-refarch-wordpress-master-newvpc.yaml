@@ -1039,7 +1039,7 @@ Resources:
           !Ref WPTitle
         WPVersion:
           !Ref WPVersion
-      TemplateURL: https://s3.amazonaws.com/aws-refarch/wordpress/latest/templates/aws-refarch-wordpress-04-web.yaml
+      TemplateURL: https://cf-templates--wvhf6dgzm01a-ap-northeast-1.s3.ap-northeast-1.amazonaws.com/aws-refarch-wordpress-04-web.yaml
 
 Outputs:
 
