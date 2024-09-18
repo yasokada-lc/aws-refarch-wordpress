@@ -317,7 +317,7 @@ Mappings:
     sa-east-1:
       AMI: ami-0122c4b16734197ac
     us-east-1:
-      AMI: ami-09d3b3274b6c5d4aa
+      AMI: ami-0a5c3558529277641
     us-east-2:
       AMI: ami-089a545a9ed9893b6
     us-west-1:
